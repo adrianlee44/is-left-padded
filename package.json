@@ -1,0 +1,23 @@
+{
+  "name": "is-left-padded",
+  "version": "0.0.1",
+  "description": "Is your string left padded?",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianlee44/is-left-padded.git"
+  },
+  "keywords": [
+    "left",
+    "pad",
+    "padding",
+    "string"
+  ],
+  "author": "adrian@adrianlee.me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianlee44/is-left-padded/issues"
+  },
+  "homepage": "https://github.com/adrianlee44/is-left-padded#readme"
+}
